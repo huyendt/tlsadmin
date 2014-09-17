@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1527466730">
+    <data-source source="LOCAL" name="Rails tlsadmin: development" uuid="2e012037-a0a5-4b7e-bb2b-ac98094a6ae6">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.10.10.8:3306/tls_admin</jdbc-url>
+      <user-name>tls_admin</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4df9bdf98df99</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails tlsadmin: production" uuid="b647eafb-3414-4623-964e-6f080db7c625">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.10.10.8:3306/tls_admin</jdbc-url>
+      <user-name>tls_admin</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4df9bdf98df99</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

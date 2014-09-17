@@ -1,0 +1,6 @@
+rails new tlsadmin
+
+rails generate scaffold Group name:string description:text parent_id:integer
+rake db:migrate
+
+belongs_to :parent, class_name: "Product", foreign_key: "parent_id"
